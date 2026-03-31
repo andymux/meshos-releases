@@ -1,4 +1,4 @@
-# MeshOS for Android
+# MeshOS
 
 An official MeshCore App.
 
