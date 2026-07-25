@@ -1,16 +1,4 @@
 {
-  "tdeck": {
-    "version": "1.5.9",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.5.9.bin",
-    "size": 5181968,
-    "sha256": "2f9f587f41fc751e8f91900772f000c2aa1ef68eefd585bd604d407b2341a9d2",
-    "notes": "Smoother UI on busy meshes, chat input box fixes, WiFi and GPS toggles now respected everywhere"
-  },
-  "m9": {
-    "version": "1.5.9",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.5.9.bin",
-    "size": 4757952,
-    "sha256": "a58f9a8b5cf2516022c26c8075d52ed97896c245945da519eeca40cd3c6420e7",
-    "notes": "Smoother UI on busy meshes, chat input box fixes, WiFi and GPS toggles now respected everywhere"
-  }
+  "tdeck": { "version": "1.6.0", "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.0.bin", "size": 5195200, "sha256": "bee44943f9de3f57f796f8ff26a5f6f5144a6d09d6b43b54f19e8d8276b963cd", "notes": "Internet Messaging: chat over WiFi. Big speed + reliability boost for maps and browser" },
+  "m9":    { "version": "1.6.0", "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.0.bin",    "size": 4647600, "sha256": "6c7f5b0bea71274eeefd96b85a312c5234f0d830da58517198f03e8f81683d8e", "notes": "Internet Messaging: chat over WiFi. Big speed + reliability boost for maps and browser" }
 }
