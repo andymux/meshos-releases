@@ -1,4 +1,16 @@
 {
-  "tdeck": { "version": "1.6.0", "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.0.bin", "size": 5195200, "sha256": "bee44943f9de3f57f796f8ff26a5f6f5144a6d09d6b43b54f19e8d8276b963cd", "notes": "Internet Messaging: chat over WiFi. Big speed + reliability boost for maps and browser" },
-  "m9":    { "version": "1.6.0", "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.0.bin",    "size": 4647600, "sha256": "6c7f5b0bea71274eeefd96b85a312c5234f0d830da58517198f03e8f81683d8e", "notes": "Internet Messaging: chat over WiFi. Big speed + reliability boost for maps and browser" }
+  "tdeck": {
+    "version": "1.6.1",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.1.bin",
+    "size": 5206928,
+    "sha256": "8d502ab43488484f74961c1ac22f9c2db77c18cb36a7f8db30342d1999cef1d5",
+    "notes": "Map tiles now work on a fresh SD card (folder auto-created). Internet Messaging: fixed connection drops when multiple users are online."
+  },
+  "m9": {
+    "version": "1.6.1",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.1.bin",
+    "size": 4652624,
+    "sha256": "4ff8408e574538deb098d3808871f67c13a38efbd3a945aba80191bfda0506e8",
+    "notes": "Map tiles now work on a fresh SD card (folder auto-created). Internet Messaging: fixed connection drops when multiple users are online."
+  }
 }
