@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.6.3",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.3.bin",
-    "size": 5209584,
-    "sha256": "d762b38b1ac57dd6f1d5d22ae2eb01237ade4887e731b401a015dc89f274b594",
-    "notes": "Longer messages, smoother typing on busy meshes, open web links from chat in CoreBrowser, shared photos now display correctly (Google Photos, meshpic and more), globe icon on internet messages, plus stability fixes."
+    "version": "1.6.4",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.4.bin",
+    "size": 5208960,
+    "sha256": "a5557389b81d3622966045cdcf1238a9acd8c207225dca05974509fe304710f7",
+    "notes": "Fixed touch not registering on the Delete and Clear confirm buttons at larger text sizes, new Hide option for the MeshOS channel (works alongside Mute while per-channel internet keeps running), clearer Internet Messaging description, and the internet globe icon now scales with the chat text size."
   },
   "m9": {
-    "version": "1.6.3",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.3.bin",
-    "size": 4659856,
-    "sha256": "eb41a6f92663fdaa98735fd4e636ab3f348aeae279815b716c606154a14fb01b",
-    "notes": "Longer messages, smoother typing on busy meshes, open web links from chat in CoreBrowser, shared photos now display correctly (Google Photos, meshpic and more), globe icon on internet messages, plus stability fixes."
+    "version": "1.6.4",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.4.bin",
+    "size": 4660512,
+    "sha256": "3aaaae2b30820e92d6f88d275c3f5b97f1fc6802af70e9cab28b59ffc6c077b9",
+    "notes": "Fixed touch not registering on the Delete and Clear confirm buttons at larger text sizes, new Hide option for the MeshOS channel (works alongside Mute while per-channel internet keeps running), clearer Internet Messaging description, and the internet globe icon now scales with the chat text size."
   }
 }
