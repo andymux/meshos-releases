@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.6.2",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.2.bin",
-    "size": 5204208,
-    "sha256": "aa56bb93fd24604b744d512d782d9194d29e42586375f6ed19ce248977d4f46a",
-    "notes": "Internet for your channels: enable Internet on any channel to chat over WiFi too. Merged bubbles, double ticks, status dots. Plus channel reliability fixes."
+    "version": "1.6.3",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.3.bin",
+    "size": 5209584,
+    "sha256": "d762b38b1ac57dd6f1d5d22ae2eb01237ade4887e731b401a015dc89f274b594",
+    "notes": "Longer messages, smoother typing on busy meshes, open web links from chat in CoreBrowser, shared photos now display correctly (Google Photos, meshpic and more), globe icon on internet messages, plus stability fixes."
   },
   "m9": {
-    "version": "1.6.2",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.2.bin",
-    "size": 4655872,
-    "sha256": "a08919490e01ad439c353ea4692f4db7177e901858029558353d7c6a065fd671",
-    "notes": "Internet for your channels: enable Internet on any channel to chat over WiFi too. Merged bubbles, double ticks, status dots. Plus channel reliability fixes."
+    "version": "1.6.3",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.3.bin",
+    "size": 4659856,
+    "sha256": "eb41a6f92663fdaa98735fd4e636ab3f348aeae279815b716c606154a14fb01b",
+    "notes": "Longer messages, smoother typing on busy meshes, open web links from chat in CoreBrowser, shared photos now display correctly (Google Photos, meshpic and more), globe icon on internet messages, plus stability fixes."
   }
 }
