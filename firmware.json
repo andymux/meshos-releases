@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.6.4",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.4.bin",
-    "size": 5208960,
-    "sha256": "a5557389b81d3622966045cdcf1238a9acd8c207225dca05974509fe304710f7",
-    "notes": "Fixed touch not registering on the Delete and Clear confirm buttons at larger text sizes, new Hide option for the MeshOS channel (works alongside Mute while per-channel internet keeps running), clearer Internet Messaging description, and the internet globe icon now scales with the chat text size."
+    "version": "1.6.5",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.5.bin",
+    "size": 5215200,
+    "sha256": "2331383412fe6558564970449ff60fdea3c2e88632bff1e13a6b013f9223e361",
+    "notes": "Picture messages: photos show right in the chat with thumbnails when WiFi is on. WiFi status shows the connected network. Back button clears notifications. Fixes."
   },
   "m9": {
-    "version": "1.6.4",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.4.bin",
-    "size": 4660512,
-    "sha256": "3aaaae2b30820e92d6f88d275c3f5b97f1fc6802af70e9cab28b59ffc6c077b9",
-    "notes": "Fixed touch not registering on the Delete and Clear confirm buttons at larger text sizes, new Hide option for the MeshOS channel (works alongside Mute while per-channel internet keeps running), clearer Internet Messaging description, and the internet globe icon now scales with the chat text size."
+    "version": "1.6.5",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.5.bin",
+    "size": 4669600,
+    "sha256": "e257e7569be1f74c9594c23b0b901c6246ed34c73a9bdda197beef03b0bfcbbb",
+    "notes": "Picture messages: photos show right in the chat with thumbnails when WiFi is on. WiFi status shows the connected network. Back button clears notifications. Fixes."
   }
 }
