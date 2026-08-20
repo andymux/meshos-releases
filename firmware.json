@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.6.5",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.5.bin",
-    "size": 5215200,
-    "sha256": "2331383412fe6558564970449ff60fdea3c2e88632bff1e13a6b013f9223e361",
-    "notes": "Picture messages: photos show right in the chat with thumbnails when WiFi is on. WiFi status shows the connected network. Back button clears notifications. Fixes."
+    "version": "1.6.6",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.6.bin",
+    "size": 5222368,
+    "sha256": "6b03705490ee569fc94d15739eacda1f7bbead1025e41e15a7b8fa8f10bce231",
+    "notes": "Typing feels instant: eliminated input stalls during busy mesh traffic, fixed phantom double letters, and deferred background work off the keyboard. New: select words with the joypad or trackball (left to select, backspace to delete), tap to place the cursor and edit mid-message (T-Deck). Plus a globe icon for the MeshOS channel, international characters now sit correctly in Modern font, and a clearer message when updating without an SD card."
   },
   "m9": {
-    "version": "1.6.5",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.5.bin",
-    "size": 4669600,
-    "sha256": "e257e7569be1f74c9594c23b0b901c6246ed34c73a9bdda197beef03b0bfcbbb",
-    "notes": "Picture messages: photos show right in the chat with thumbnails when WiFi is on. WiFi status shows the connected network. Back button clears notifications. Fixes."
+    "version": "1.6.6",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.6.bin",
+    "size": 4674560,
+    "sha256": "53897c105eb99aa8a17e5c96504a0c0c2a6e021a653da00357acc90404173639",
+    "notes": "Typing feels instant: eliminated input stalls during busy mesh traffic, fixed phantom double letters, and deferred background work off the keyboard. New: select words with the joypad or trackball (left to select, backspace to delete), tap to place the cursor and edit mid-message (T-Deck). Plus a globe icon for the MeshOS channel, international characters now sit correctly in Modern font, and a clearer message when updating without an SD card."
   }
 }
