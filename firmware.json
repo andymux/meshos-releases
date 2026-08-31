@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.6.6",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.6.6.bin",
-    "size": 5222368,
-    "sha256": "6b03705490ee569fc94d15739eacda1f7bbead1025e41e15a7b8fa8f10bce231",
-    "notes": "Typing feels instant: eliminated input stalls during busy mesh traffic, fixed phantom double letters, and deferred background work off the keyboard. New: select words with the joypad or trackball (left to select, backspace to delete), tap to place the cursor and edit mid-message (T-Deck). Plus a globe icon for the MeshOS channel, international characters now sit correctly in Modern font, and a clearer message when updating without an SD card."
+    "version": "1.7.0",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.0.bin",
+    "size": 5298592,
+    "sha256": "e7cb9ff8362da9de3fb034c75f3ed6455cbaa3710f2e06c0a3f6cea722cd54c0",
+    "notes": "New Wardriving mode: map and share mesh signal coverage as you travel. Plus an image gallery, dark and satellite maps, folder delete and more."
   },
   "m9": {
-    "version": "1.6.6",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.6.6.bin",
-    "size": 4674560,
-    "sha256": "53897c105eb99aa8a17e5c96504a0c0c2a6e021a653da00357acc90404173639",
-    "notes": "Typing feels instant: eliminated input stalls during busy mesh traffic, fixed phantom double letters, and deferred background work off the keyboard. New: select words with the joypad or trackball (left to select, backspace to delete), tap to place the cursor and edit mid-message (T-Deck). Plus a globe icon for the MeshOS channel, international characters now sit correctly in Modern font, and a clearer message when updating without an SD card."
+    "version": "1.7.0",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.0.bin",
+    "size": 4736592,
+    "sha256": "02bf59bccd86a4c471ec0e1b2757f84b5dad2b1435110b727433d3274621f39f",
+    "notes": "New Wardriving mode: map and share mesh signal coverage as you travel. Plus an image gallery, dark and satellite maps, folder delete and more."
   }
 }
