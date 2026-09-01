@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.0",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.0.bin",
-    "size": 5298592,
-    "sha256": "e7cb9ff8362da9de3fb034c75f3ed6455cbaa3710f2e06c0a3f6cea722cd54c0",
-    "notes": "New Wardriving mode: map and share mesh signal coverage as you travel. Plus an image gallery, dark and satellite maps, folder delete and more."
+    "version": "1.7.1",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.1.bin",
+    "size": 5298176,
+    "sha256": "6f151f4e094216058b6e3c97e97500fd41689e7d00c64f8ae7e7f8db50506a0e",
+    "notes": "Fixes a big slowdown on devices without an SD card, filters bad GPS fixes out of wardriving logs, and the community heatmap list auto-refreshes."
   },
   "m9": {
-    "version": "1.7.0",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.0.bin",
-    "size": 4736592,
-    "sha256": "02bf59bccd86a4c471ec0e1b2757f84b5dad2b1435110b727433d3274621f39f",
-    "notes": "New Wardriving mode: map and share mesh signal coverage as you travel. Plus an image gallery, dark and satellite maps, folder delete and more."
+    "version": "1.7.1",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.1.bin",
+    "size": 4737248,
+    "sha256": "71e60ff949094e6da9f7279610f9cab1a451e009ee3e758b8149f6b457544eb1",
+    "notes": "Fixes a big slowdown on devices without an SD card, filters bad GPS fixes out of wardriving logs, and the community heatmap list auto-refreshes."
   }
 }
