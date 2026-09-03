@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.1",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.1.bin",
-    "size": 5298176,
-    "sha256": "6f151f4e094216058b6e3c97e97500fd41689e7d00c64f8ae7e7f8db50506a0e",
-    "notes": "Fixes a big slowdown on devices without an SD card, filters bad GPS fixes out of wardriving logs, and the community heatmap list auto-refreshes."
+    "version": "1.7.2",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.2.bin",
+    "size": 5292576,
+    "sha256": "b6a3a50aec695b075eac43be2e4ac0a68fb20272ed35c0b0307d1af5fe436224",
+    "notes": "WiFi scan fixes (no more reboot with Bluetooth on, works while connected), Connect button for saved networks, own heatmap no longer doubles up."
   },
   "m9": {
-    "version": "1.7.1",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.1.bin",
-    "size": 4737248,
-    "sha256": "71e60ff949094e6da9f7279610f9cab1a451e009ee3e758b8149f6b457544eb1",
-    "notes": "Fixes a big slowdown on devices without an SD card, filters bad GPS fixes out of wardriving logs, and the community heatmap list auto-refreshes."
+    "version": "1.7.2",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.2.bin",
+    "size": 4738912,
+    "sha256": "fc38153bfe148387059e29c92754b585f7b23f7c72f76659280f79ea71dfdb1f",
+    "notes": "WiFi scan fixes (no more reboot with Bluetooth on, works while connected), Connect button for saved networks, own heatmap no longer doubles up."
   }
 }
