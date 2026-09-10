@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.2",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.2.bin",
-    "size": 5292576,
-    "sha256": "b6a3a50aec695b075eac43be2e4ac0a68fb20272ed35c0b0307d1af5fe436224",
-    "notes": "WiFi scan fixes (no more reboot with Bluetooth on, works while connected), Connect button for saved networks, own heatmap no longer doubles up."
+    "version": "1.7.3",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.3.bin",
+    "size": 5292928,
+    "sha256": "83ffeb343e430371b3913ebc4e9d39a9ca9e9eed8c2ab436e801c64d5d911978",
+    "notes": "Fixes that improve reliability when using the radio with the MeshOS app. T-Deck: around 80 KB more free RAM."
   },
   "m9": {
-    "version": "1.7.2",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.2.bin",
-    "size": 4738912,
-    "sha256": "fc38153bfe148387059e29c92754b585f7b23f7c72f76659280f79ea71dfdb1f",
-    "notes": "WiFi scan fixes (no more reboot with Bluetooth on, works while connected), Connect button for saved networks, own heatmap no longer doubles up."
+    "version": "1.7.3",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.3.bin",
+    "size": 4742448,
+    "sha256": "c972a8206f6d6d62985ee9a31c6be033bc8af6d1e5c2d09c7d41344307aecbbf",
+    "notes": "Fixes that improve reliability when using the radio with the MeshOS app. T-Deck: around 80 KB more free RAM."
   }
 }
