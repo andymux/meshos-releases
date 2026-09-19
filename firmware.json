@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.3",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.3.bin",
-    "size": 5292928,
-    "sha256": "83ffeb343e430371b3913ebc4e9d39a9ca9e9eed8c2ab436e801c64d5d911978",
-    "notes": "Fixes that improve reliability when using the radio with the MeshOS app. T-Deck: around 80 KB more free RAM."
+    "version": "1.7.4",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.4.bin",
+    "size": 5321520,
+    "sha256": "2e2c2e1be1012bfe0f8978c0a58968aa1304ce94eb9bce439857416b23a8ede1",
+    "notes": "SD card virus check in Tools > Storage. Long messages no longer restart the radio."
   },
   "m9": {
-    "version": "1.7.3",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.3.bin",
-    "size": 4742448,
-    "sha256": "c972a8206f6d6d62985ee9a31c6be033bc8af6d1e5c2d09c7d41344307aecbbf",
-    "notes": "Fixes that improve reliability when using the radio with the MeshOS app. T-Deck: around 80 KB more free RAM."
+    "version": "1.7.4",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.4.bin",
+    "size": 4763808,
+    "sha256": "3ca4aadde29f179bbd2e02598d9303e8bb2cc26487691be1f50be0bf2b74139e",
+    "notes": "Windows virus found on some M9 map cards. Tools > Storage finds and removes it."
   }
 }
