@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.4",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.4.bin",
-    "size": 5321520,
-    "sha256": "2e2c2e1be1012bfe0f8978c0a58968aa1304ce94eb9bce439857416b23a8ede1",
-    "notes": "SD card virus check in Tools > Storage. Long messages no longer restart the radio."
+    "version": "1.7.5",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.5.bin",
+    "size": 5321616,
+    "sha256": "c456640ba0b5477a441e6dd613dc2330b66efb87cf1b117e407a944d6ccee1b3",
+    "notes": "Storage scan fix: worm files with long names are now removed too. Scan again if any were left."
   },
   "m9": {
-    "version": "1.7.4",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.4.bin",
-    "size": 4763808,
-    "sha256": "3ca4aadde29f179bbd2e02598d9303e8bb2cc26487691be1f50be0bf2b74139e",
-    "notes": "Windows virus found on some M9 map cards. Tools > Storage finds and removes it."
+    "version": "1.7.5",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.5.bin",
+    "size": 4764096,
+    "sha256": "a1fdbf984d474fe242af4c155214a1ee7375af69cba53498ae5f2c3cde0a5ed8",
+    "notes": "Storage scan fix: worm files with long names are now removed too. Scan again if any were left."
   }
 }
