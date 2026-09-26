@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.5",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.5.bin",
-    "size": 5321616,
-    "sha256": "c456640ba0b5477a441e6dd613dc2330b66efb87cf1b117e407a944d6ccee1b3",
-    "notes": "Storage scan fix: worm files with long names are now removed too. Scan again if any were left."
+    "version": "1.7.6",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.6.bin",
+    "size": 5318368,
+    "sha256": "a7150b93f5aa23d2855c5ec70036cf77faec0670e616a19a81b04bb7757b6e28",
+    "notes": "Repeater Finder now adds the repeater as a contact and logs you in. M9: detects which GPS module is fitted and configures it."
   },
   "m9": {
-    "version": "1.7.5",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.5.bin",
-    "size": 4764096,
-    "sha256": "a1fdbf984d474fe242af4c155214a1ee7375af69cba53498ae5f2c3cde0a5ed8",
-    "notes": "Storage scan fix: worm files with long names are now removed too. Scan again if any were left."
+    "version": "1.7.6",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.6.bin",
+    "size": 4766816,
+    "sha256": "a0195a3f5db3307014d09f9e7405e096553dd4a988f442570d3f53ad2a13b582",
+    "notes": "Repeater Finder now adds the repeater as a contact and logs you in. M9: detects which GPS module is fitted and configures it."
   }
 }
