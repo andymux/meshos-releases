@@ -7,10 +7,10 @@
     "notes": "Repeater Finder now adds the repeater as a contact and logs you in. M9: detects which GPS module is fitted and configures it."
   },
   "m9": {
-    "version": "1.7.6",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.6.bin",
-    "size": 4766816,
-    "sha256": "a0195a3f5db3307014d09f9e7405e096553dd4a988f442570d3f53ad2a13b582",
-    "notes": "Repeater Finder now adds the repeater as a contact and logs you in. M9: detects which GPS module is fitted and configures it."
+    "version": "1.7.7",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.7.bin",
+    "size": 4767088,
+    "sha256": "0ccbf14c79bcaa2b9df456846a89e19904d1efd8036f0139c5b40467e0a382e1",
+    "notes": "Support for new M9 hardware: keyboard and buttons. No change on older M9s."
   }
 }
