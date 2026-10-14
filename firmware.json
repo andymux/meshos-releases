@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.6",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.6.bin",
-    "size": 5318368,
-    "sha256": "a7150b93f5aa23d2855c5ec70036cf77faec0670e616a19a81b04bb7757b6e28",
-    "notes": "Repeater Finder now adds the repeater as a contact and logs you in. M9: detects which GPS module is fitted and configures it."
+    "version": "1.7.8",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.8.bin",
+    "size": 5341408,
+    "sha256": "d5bc3099511c07bd242a0e07c8d0101fb7bb7dbda27cba90ac7f0ad7ef9f08c6",
+    "notes": "Delivery reports: see who heard your message, and senders see your radio. Signed messages (Sign row in the channel menu). Contact cards, AirLink contacts, Contacts full warning."
   },
   "m9": {
-    "version": "1.7.7",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.7.bin",
-    "size": 4767088,
-    "sha256": "0ccbf14c79bcaa2b9df456846a89e19904d1efd8036f0139c5b40467e0a382e1",
-    "notes": "Support for new M9 hardware: keyboard and buttons. No change on older M9s."
+    "version": "1.7.8",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.8.bin",
+    "size": 4780912,
+    "sha256": "c6e525cde69a98d5c28ccafdfe7c947ab120d6c427633f36c657337c2082cee2",
+    "notes": "Delivery reports: see who heard your message, and senders see your radio. Signed messages (Sign row in the channel menu). Contact cards, AirLink contacts, Contacts full warning."
   }
 }
