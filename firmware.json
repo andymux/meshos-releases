@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.8",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.8.bin",
-    "size": 5341408,
-    "sha256": "d5bc3099511c07bd242a0e07c8d0101fb7bb7dbda27cba90ac7f0ad7ef9f08c6",
-    "notes": "Delivery reports: see who heard your message, and senders see your radio. Signed messages (Sign row in the channel menu). Contact cards, AirLink contacts, Contacts full warning."
+    "version": "1.7.9",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.9.bin",
+    "size": 5342288,
+    "sha256": "1ef5b662e4d7d70edcf8dcada8212cea159b6389836f529d99d481bbdad2094f",
+    "notes": "Join open WiFi networks. Sound on/off is remembered. Send Image retries a failed upload."
   },
   "m9": {
-    "version": "1.7.8",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.8.bin",
-    "size": 4780912,
-    "sha256": "c6e525cde69a98d5c28ccafdfe7c947ab120d6c427633f36c657337c2082cee2",
-    "notes": "Delivery reports: see who heard your message, and senders see your radio. Signed messages (Sign row in the channel menu). Contact cards, AirLink contacts, Contacts full warning."
+    "version": "1.7.9",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.9.bin",
+    "size": 4781728,
+    "sha256": "71bb0716f77a28a92e2391ad24099dc241b11fae1b510558939d7c66e7cd6cd8",
+    "notes": "Join open WiFi networks. Sound on/off is remembered. Send Image retries a failed upload."
   }
 }
