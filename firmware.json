@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.7.9",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.9.bin",
-    "size": 5342288,
-    "sha256": "1ef5b662e4d7d70edcf8dcada8212cea159b6389836f529d99d481bbdad2094f",
-    "notes": "Join open WiFi networks. Sound on/off is remembered. Send Image retries a failed upload."
+    "version": "1.7.10",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.7.10.bin",
+    "size": 5346208,
+    "sha256": "81d09b11a126986055a810ad87f480dc2044344acce0c27714e479e7ae58daf3",
+    "notes": "Reports the route of every message to the app (Spam Blocker)"
   },
   "m9": {
-    "version": "1.7.9",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.9.bin",
-    "size": 4781728,
-    "sha256": "71bb0716f77a28a92e2391ad24099dc241b11fae1b510558939d7c66e7cd6cd8",
-    "notes": "Join open WiFi networks. Sound on/off is remembered. Send Image retries a failed upload."
+    "version": "1.7.10",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.7.10.bin",
+    "size": 4782480,
+    "sha256": "6d878daea8404d546d8ffb001b9cebe9d9e56a4a0b62354dee2080b8a7015184",
+    "notes": "Reports the route of every message to the app (Spam Blocker)"
   }
 }
